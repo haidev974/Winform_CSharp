@@ -1,0 +1,15 @@
+C:\Users\ADMIN\source\repos\LeDuyHai_Buoi5_THWIN\bai1.BUS\bin\Debug\bai1.BUS.dll.config
+C:\Users\ADMIN\source\repos\LeDuyHai_Buoi5_THWIN\bai1.BUS\bin\Debug\bai1.BUS.dll
+C:\Users\ADMIN\source\repos\LeDuyHai_Buoi5_THWIN\bai1.BUS\bin\Debug\bai1.BUS.pdb
+C:\Users\ADMIN\source\repos\LeDuyHai_Buoi5_THWIN\bai1.BUS\bin\Debug\bai1.DAL.dll
+C:\Users\ADMIN\source\repos\LeDuyHai_Buoi5_THWIN\bai1.BUS\bin\Debug\EntityFramework.dll
+C:\Users\ADMIN\source\repos\LeDuyHai_Buoi5_THWIN\bai1.BUS\bin\Debug\bai1.DAL.pdb
+C:\Users\ADMIN\source\repos\LeDuyHai_Buoi5_THWIN\bai1.BUS\bin\Debug\bai1.DAL.dll.config
+C:\Users\ADMIN\source\repos\LeDuyHai_Buoi5_THWIN\bai1.BUS\bin\Debug\EntityFramework.xml
+C:\Users\ADMIN\source\repos\LeDuyHai_Buoi5_THWIN\bai1.BUS\obj\Debug\bai1.BUS.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\LeDuyHai_Buoi5_THWIN\bai1.BUS\obj\Debug\bai1.BUS.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\LeDuyHai_Buoi5_THWIN\bai1.BUS\obj\Debug\bai1.BUS.csproj.Up2Date
+C:\Users\ADMIN\source\repos\LeDuyHai_Buoi5_THWIN\bai1.BUS\obj\Debug\bai1.BUS.dll
+C:\Users\ADMIN\source\repos\LeDuyHai_Buoi5_THWIN\bai1.BUS\obj\Debug\bai1.BUS.pdb
+C:\Users\ADMIN\source\repos\LeDuyHai_Buoi5_THWIN\bai1.BUS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\source\repos\LeDuyHai_Buoi5_THWIN\bai1.BUS\bin\Debug\EntityFramework.SqlServer.xml

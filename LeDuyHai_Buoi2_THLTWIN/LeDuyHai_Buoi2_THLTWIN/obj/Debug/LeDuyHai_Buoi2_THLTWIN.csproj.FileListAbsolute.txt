@@ -1,0 +1,10 @@
+C:\Users\ADMIN\source\repos\LeDuyHai_Buoi2_THLTWIN\LeDuyHai_Buoi2_THLTWIN\bin\Debug\LeDuyHai_Buoi2_THLTWIN.exe.config
+C:\Users\ADMIN\source\repos\LeDuyHai_Buoi2_THLTWIN\LeDuyHai_Buoi2_THLTWIN\bin\Debug\LeDuyHai_Buoi2_THLTWIN.exe
+C:\Users\ADMIN\source\repos\LeDuyHai_Buoi2_THLTWIN\LeDuyHai_Buoi2_THLTWIN\bin\Debug\LeDuyHai_Buoi2_THLTWIN.pdb
+C:\Users\ADMIN\source\repos\LeDuyHai_Buoi2_THLTWIN\LeDuyHai_Buoi2_THLTWIN\obj\Debug\LeDuyHai_Buoi2_THLTWIN.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\LeDuyHai_Buoi2_THLTWIN\LeDuyHai_Buoi2_THLTWIN\obj\Debug\LeDuyHai_Buoi2_THLTWIN.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\LeDuyHai_Buoi2_THLTWIN\LeDuyHai_Buoi2_THLTWIN\obj\Debug\LeDuyHai_Buoi2_THLTWIN.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\LeDuyHai_Buoi2_THLTWIN\LeDuyHai_Buoi2_THLTWIN\obj\Debug\LeDuyHai_Buoi2_THLTWIN.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\LeDuyHai_Buoi2_THLTWIN\LeDuyHai_Buoi2_THLTWIN\obj\Debug\LeDuyHai_Buoi2_THLTWIN.exe
+C:\Users\ADMIN\source\repos\LeDuyHai_Buoi2_THLTWIN\LeDuyHai_Buoi2_THLTWIN\obj\Debug\LeDuyHai_Buoi2_THLTWIN.pdb
+C:\Users\ADMIN\source\repos\LeDuyHai_Buoi2_THLTWIN\LeDuyHai_Buoi2_THLTWIN\obj\Debug\LeDuyHai_Buoi2_THLTWIN.TTDG.resources

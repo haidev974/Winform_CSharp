@@ -1,0 +1,15 @@
+C:\Users\ADMIN\source\repos\NguyenNgocTrinh\bai4_qlSanPhamVaDonHang\bin\Debug\bai4_qlSanPhamVaDonHang.exe.config
+C:\Users\ADMIN\source\repos\NguyenNgocTrinh\bai4_qlSanPhamVaDonHang\bin\Debug\bai4_qlSanPhamVaDonHang.exe
+C:\Users\ADMIN\source\repos\NguyenNgocTrinh\bai4_qlSanPhamVaDonHang\bin\Debug\bai4_qlSanPhamVaDonHang.pdb
+C:\Users\ADMIN\source\repos\NguyenNgocTrinh\bai4_qlSanPhamVaDonHang\obj\Debug\bai4_qlSanPhamVaDonHang.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\NguyenNgocTrinh\bai4_qlSanPhamVaDonHang\obj\Debug\bai4_qlSanPhamVaDonHang.Form1.resources
+C:\Users\ADMIN\source\repos\NguyenNgocTrinh\bai4_qlSanPhamVaDonHang\obj\Debug\bai4_qlSanPhamVaDonHang.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\NguyenNgocTrinh\bai4_qlSanPhamVaDonHang\obj\Debug\bai4_qlSanPhamVaDonHang.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\NguyenNgocTrinh\bai4_qlSanPhamVaDonHang\obj\Debug\bai4_qlSanPhamVaDonHang.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\NguyenNgocTrinh\bai4_qlSanPhamVaDonHang\obj\Debug\bai4_qlSanPhamVaDonHang.exe
+C:\Users\ADMIN\source\repos\NguyenNgocTrinh\bai4_qlSanPhamVaDonHang\obj\Debug\bai4_qlSanPhamVaDonHang.pdb
+C:\Users\ADMIN\source\repos\NguyenNgocTrinh\bai4_qlSanPhamVaDonHang\bin\Debug\EntityFramework.dll
+C:\Users\ADMIN\source\repos\NguyenNgocTrinh\bai4_qlSanPhamVaDonHang\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\source\repos\NguyenNgocTrinh\bai4_qlSanPhamVaDonHang\bin\Debug\EntityFramework.xml
+C:\Users\ADMIN\source\repos\NguyenNgocTrinh\bai4_qlSanPhamVaDonHang\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\source\repos\NguyenNgocTrinh\bai4_qlSanPhamVaDonHang\obj\Debug\bai4_qlS.B6AE85A7.Up2Date

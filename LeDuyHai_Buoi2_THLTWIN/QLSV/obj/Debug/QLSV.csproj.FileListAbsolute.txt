@@ -1,0 +1,10 @@
+C:\Users\ADMIN\source\repos\LeDuyHai_Buoi2_THLTWIN\QLSV\bin\Debug\QLSV.exe.config
+C:\Users\ADMIN\source\repos\LeDuyHai_Buoi2_THLTWIN\QLSV\bin\Debug\QLSV.exe
+C:\Users\ADMIN\source\repos\LeDuyHai_Buoi2_THLTWIN\QLSV\bin\Debug\QLSV.pdb
+C:\Users\ADMIN\source\repos\LeDuyHai_Buoi2_THLTWIN\QLSV\obj\Debug\QLSV.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\LeDuyHai_Buoi2_THLTWIN\QLSV\obj\Debug\QLSV.Form1.resources
+C:\Users\ADMIN\source\repos\LeDuyHai_Buoi2_THLTWIN\QLSV\obj\Debug\QLSV.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\LeDuyHai_Buoi2_THLTWIN\QLSV\obj\Debug\QLSV.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\LeDuyHai_Buoi2_THLTWIN\QLSV\obj\Debug\QLSV.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\LeDuyHai_Buoi2_THLTWIN\QLSV\obj\Debug\QLSV.exe
+C:\Users\ADMIN\source\repos\LeDuyHai_Buoi2_THLTWIN\QLSV\obj\Debug\QLSV.pdb

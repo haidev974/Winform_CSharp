@@ -1,0 +1,10 @@
+C:\Users\ADMIN\source\repos\LeDuyHai_Buoi2_THLTWIN\BanVeRapChieuPhim\bin\Debug\BanVeRapChieuPhim.exe.config
+C:\Users\ADMIN\source\repos\LeDuyHai_Buoi2_THLTWIN\BanVeRapChieuPhim\bin\Debug\BanVeRapChieuPhim.exe
+C:\Users\ADMIN\source\repos\LeDuyHai_Buoi2_THLTWIN\BanVeRapChieuPhim\bin\Debug\BanVeRapChieuPhim.pdb
+C:\Users\ADMIN\source\repos\LeDuyHai_Buoi2_THLTWIN\BanVeRapChieuPhim\obj\Debug\BanVeRapChieuPhim.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\LeDuyHai_Buoi2_THLTWIN\BanVeRapChieuPhim\obj\Debug\BanVeRapChieuPhim.Form1.resources
+C:\Users\ADMIN\source\repos\LeDuyHai_Buoi2_THLTWIN\BanVeRapChieuPhim\obj\Debug\BanVeRapChieuPhim.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\LeDuyHai_Buoi2_THLTWIN\BanVeRapChieuPhim\obj\Debug\BanVeRapChieuPhim.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\LeDuyHai_Buoi2_THLTWIN\BanVeRapChieuPhim\obj\Debug\BanVeRapChieuPhim.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\LeDuyHai_Buoi2_THLTWIN\BanVeRapChieuPhim\obj\Debug\BanVeRapChieuPhim.exe
+C:\Users\ADMIN\source\repos\LeDuyHai_Buoi2_THLTWIN\BanVeRapChieuPhim\obj\Debug\BanVeRapChieuPhim.pdb

@@ -1,0 +1,15 @@
+C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_QLThuVien_EF\bin\Debug\LeDuyHai_QLThuVien_EF.exe.config
+C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_QLThuVien_EF\bin\Debug\LeDuyHai_QLThuVien_EF.exe
+C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_QLThuVien_EF\bin\Debug\LeDuyHai_QLThuVien_EF.pdb
+C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_QLThuVien_EF\bin\Debug\EntityFramework.dll
+C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_QLThuVien_EF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_QLThuVien_EF\bin\Debug\EntityFramework.xml
+C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_QLThuVien_EF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_QLThuVien_EF\obj\Debug\LeDuyHai_QLThuVien_EF.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_QLThuVien_EF\obj\Debug\LeDuyHai_QLThuVien_EF.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_QLThuVien_EF\obj\Debug\LeDuyHai_QLThuVien_EF.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_QLThuVien_EF\obj\Debug\LeDuyHai_QLThuVien_EF.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_QLThuVien_EF\obj\Debug\LeDuyHai.98DCA4FB.Up2Date
+C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_QLThuVien_EF\obj\Debug\LeDuyHai_QLThuVien_EF.exe
+C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_QLThuVien_EF\obj\Debug\LeDuyHai_QLThuVien_EF.pdb
+C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_QLThuVien_EF\obj\Debug\LeDuyHai_QLThuVien_EF.Form1.resources

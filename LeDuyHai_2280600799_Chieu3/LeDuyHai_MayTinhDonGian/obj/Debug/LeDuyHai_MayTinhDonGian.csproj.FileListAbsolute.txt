@@ -1,0 +1,10 @@
+C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_MayTinhDonGian\bin\Debug\LeDuyHai_MayTinhDonGian.exe.config
+C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_MayTinhDonGian\bin\Debug\LeDuyHai_MayTinhDonGian.exe
+C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_MayTinhDonGian\bin\Debug\LeDuyHai_MayTinhDonGian.pdb
+C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_MayTinhDonGian\obj\Debug\LeDuyHai_MayTinhDonGian.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_MayTinhDonGian\obj\Debug\LeDuyHai_MayTinhDonGian.demClickChuot.resources
+C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_MayTinhDonGian\obj\Debug\LeDuyHai_MayTinhDonGian.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_MayTinhDonGian\obj\Debug\LeDuyHai_MayTinhDonGian.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_MayTinhDonGian\obj\Debug\LeDuyHai_MayTinhDonGian.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_MayTinhDonGian\obj\Debug\LeDuyHai_MayTinhDonGian.exe
+C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_MayTinhDonGian\obj\Debug\LeDuyHai_MayTinhDonGian.pdb

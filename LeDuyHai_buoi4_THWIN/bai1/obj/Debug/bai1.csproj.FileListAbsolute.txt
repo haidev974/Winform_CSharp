@@ -1,0 +1,17 @@
+C:\Users\ADMIN\source\repos\LeDuyHai_buoi4_THWIN\bai1\bin\Debug\bai1.exe.config
+C:\Users\ADMIN\source\repos\LeDuyHai_buoi4_THWIN\bai1\bin\Debug\bai1.exe
+C:\Users\ADMIN\source\repos\LeDuyHai_buoi4_THWIN\bai1\bin\Debug\bai1.pdb
+C:\Users\ADMIN\source\repos\LeDuyHai_buoi4_THWIN\bai1\obj\Debug\bai1.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\LeDuyHai_buoi4_THWIN\bai1\obj\Debug\bai1.Form1.resources
+C:\Users\ADMIN\source\repos\LeDuyHai_buoi4_THWIN\bai1\obj\Debug\bai1.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\LeDuyHai_buoi4_THWIN\bai1\obj\Debug\bai1.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\LeDuyHai_buoi4_THWIN\bai1\obj\Debug\bai1.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\LeDuyHai_buoi4_THWIN\bai1\obj\Debug\bai1.exe
+C:\Users\ADMIN\source\repos\LeDuyHai_buoi4_THWIN\bai1\obj\Debug\bai1.pdb
+C:\Users\ADMIN\source\repos\LeDuyHai_buoi4_THWIN\bai1\bin\Debug\EntityFramework.dll
+C:\Users\ADMIN\source\repos\LeDuyHai_buoi4_THWIN\bai1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\source\repos\LeDuyHai_buoi4_THWIN\bai1\bin\Debug\EntityFramework.xml
+C:\Users\ADMIN\source\repos\LeDuyHai_buoi4_THWIN\bai1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\source\repos\LeDuyHai_buoi4_THWIN\bai1\obj\Debug\bai1.csproj.Up2Date
+C:\Users\ADMIN\source\repos\LeDuyHai_buoi4_THWIN\bai1\obj\Debug\bai1.frmKhoa.resources
+C:\Users\ADMIN\source\repos\LeDuyHai_buoi4_THWIN\bai1\obj\Debug\bai1.frmFind.resources

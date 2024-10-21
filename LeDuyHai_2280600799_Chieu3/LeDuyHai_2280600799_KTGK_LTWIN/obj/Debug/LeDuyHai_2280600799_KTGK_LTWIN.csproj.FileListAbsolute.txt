@@ -1,0 +1,16 @@
+C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_2280600799_KTGK_LTWIN\bin\Debug\LeDuyHai_2280600799_KTGK_LTWIN.exe.config
+C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_2280600799_KTGK_LTWIN\bin\Debug\LeDuyHai_2280600799_KTGK_LTWIN.exe
+C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_2280600799_KTGK_LTWIN\bin\Debug\LeDuyHai_2280600799_KTGK_LTWIN.pdb
+C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_2280600799_KTGK_LTWIN\obj\Debug\LeDuyHai_2280600799_KTGK_LTWIN.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_2280600799_KTGK_LTWIN\obj\Debug\LeDuyHai_2280600799_KTGK_LTWIN.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_2280600799_KTGK_LTWIN\obj\Debug\LeDuyHai_2280600799_KTGK_LTWIN.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_2280600799_KTGK_LTWIN\obj\Debug\LeDuyHai_2280600799_KTGK_LTWIN.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_2280600799_KTGK_LTWIN\obj\Debug\LeDuyHai_2280600799_KTGK_LTWIN.exe
+C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_2280600799_KTGK_LTWIN\obj\Debug\LeDuyHai_2280600799_KTGK_LTWIN.pdb
+C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_2280600799_KTGK_LTWIN\bin\Debug\EntityFramework.dll
+C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_2280600799_KTGK_LTWIN\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_2280600799_KTGK_LTWIN\bin\Debug\EntityFramework.xml
+C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_2280600799_KTGK_LTWIN\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_2280600799_KTGK_LTWIN\obj\Debug\LeDuyHai_2280600799_KTGK_LTWIN.Form1.resources
+C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_2280600799_KTGK_LTWIN\obj\Debug\LeDuyHai.2F13368C.Up2Date
+C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_2280600799_KTGK_LTWIN\obj\Debug\LeDuyHai_2280600799_KTGK_LTWIN.frmSinhVienDanhGia.resources

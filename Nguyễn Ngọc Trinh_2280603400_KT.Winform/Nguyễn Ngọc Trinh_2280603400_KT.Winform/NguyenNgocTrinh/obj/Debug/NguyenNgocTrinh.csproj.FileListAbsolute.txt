@@ -1,0 +1,33 @@
+D:\C#\Nguyễn Ngọc Trinh_2280603400\NguyenNgocTrinh\bin\Debug\NguyenNgocTrinh.exe.config
+D:\C#\Nguyễn Ngọc Trinh_2280603400\NguyenNgocTrinh\bin\Debug\NguyenNgocTrinh.exe
+D:\C#\Nguyễn Ngọc Trinh_2280603400\NguyenNgocTrinh\bin\Debug\NguyenNgocTrinh.pdb
+D:\C#\Nguyễn Ngọc Trinh_2280603400\NguyenNgocTrinh\bin\Debug\EntityFramework.dll
+D:\C#\Nguyễn Ngọc Trinh_2280603400\NguyenNgocTrinh\bin\Debug\EntityFramework.SqlServer.dll
+D:\C#\Nguyễn Ngọc Trinh_2280603400\NguyenNgocTrinh\bin\Debug\EntityFramework.xml
+D:\C#\Nguyễn Ngọc Trinh_2280603400\NguyenNgocTrinh\bin\Debug\EntityFramework.SqlServer.xml
+D:\C#\Nguyễn Ngọc Trinh_2280603400\NguyenNgocTrinh\obj\Debug\NguyenNgocTrinh.csproj.AssemblyReference.cache
+D:\C#\Nguyễn Ngọc Trinh_2280603400\NguyenNgocTrinh\obj\Debug\NguyenNgocTrinh.csproj.SuggestedBindingRedirects.cache
+D:\C#\Nguyễn Ngọc Trinh_2280603400\NguyenNgocTrinh\obj\Debug\NguyenNgocTrinh.Form1.resources
+D:\C#\Nguyễn Ngọc Trinh_2280603400\NguyenNgocTrinh\obj\Debug\NguyenNgocTrinh.Properties.Resources.resources
+D:\C#\Nguyễn Ngọc Trinh_2280603400\NguyenNgocTrinh\obj\Debug\NguyenNgocTrinh.csproj.GenerateResource.cache
+D:\C#\Nguyễn Ngọc Trinh_2280603400\NguyenNgocTrinh\obj\Debug\NguyenNgocTrinh.csproj.CoreCompileInputs.cache
+D:\C#\Nguyễn Ngọc Trinh_2280603400\NguyenNgocTrinh\obj\Debug\NguyenNgocTrinh.csproj.CopyComplete
+D:\C#\Nguyễn Ngọc Trinh_2280603400\NguyenNgocTrinh\obj\Debug\NguyenNgocTrinh.exe
+D:\C#\Nguyễn Ngọc Trinh_2280603400\NguyenNgocTrinh\obj\Debug\NguyenNgocTrinh.pdb
+D:\C#\Nguyễn Ngọc Trinh_2280603400\NguyenNgocTrinh\obj\Debug\NguyenNgocTrinh.Form2.resources
+C:\Users\ADMIN\source\repos\Nguyễn Ngọc Trinh_2280603400_KT.Winform\Nguyễn Ngọc Trinh_2280603400_KT.Winform\NguyenNgocTrinh\bin\Debug\NguyenNgocTrinh.exe.config
+C:\Users\ADMIN\source\repos\Nguyễn Ngọc Trinh_2280603400_KT.Winform\Nguyễn Ngọc Trinh_2280603400_KT.Winform\NguyenNgocTrinh\bin\Debug\NguyenNgocTrinh.exe
+C:\Users\ADMIN\source\repos\Nguyễn Ngọc Trinh_2280603400_KT.Winform\Nguyễn Ngọc Trinh_2280603400_KT.Winform\NguyenNgocTrinh\bin\Debug\NguyenNgocTrinh.pdb
+C:\Users\ADMIN\source\repos\Nguyễn Ngọc Trinh_2280603400_KT.Winform\Nguyễn Ngọc Trinh_2280603400_KT.Winform\NguyenNgocTrinh\bin\Debug\EntityFramework.dll
+C:\Users\ADMIN\source\repos\Nguyễn Ngọc Trinh_2280603400_KT.Winform\Nguyễn Ngọc Trinh_2280603400_KT.Winform\NguyenNgocTrinh\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\source\repos\Nguyễn Ngọc Trinh_2280603400_KT.Winform\Nguyễn Ngọc Trinh_2280603400_KT.Winform\NguyenNgocTrinh\bin\Debug\EntityFramework.xml
+C:\Users\ADMIN\source\repos\Nguyễn Ngọc Trinh_2280603400_KT.Winform\Nguyễn Ngọc Trinh_2280603400_KT.Winform\NguyenNgocTrinh\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\source\repos\Nguyễn Ngọc Trinh_2280603400_KT.Winform\Nguyễn Ngọc Trinh_2280603400_KT.Winform\NguyenNgocTrinh\obj\Debug\NguyenNgocTrinh.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\Nguyễn Ngọc Trinh_2280603400_KT.Winform\Nguyễn Ngọc Trinh_2280603400_KT.Winform\NguyenNgocTrinh\obj\Debug\NguyenNgocTrinh.Form1.resources
+C:\Users\ADMIN\source\repos\Nguyễn Ngọc Trinh_2280603400_KT.Winform\Nguyễn Ngọc Trinh_2280603400_KT.Winform\NguyenNgocTrinh\obj\Debug\NguyenNgocTrinh.Form2.resources
+C:\Users\ADMIN\source\repos\Nguyễn Ngọc Trinh_2280603400_KT.Winform\Nguyễn Ngọc Trinh_2280603400_KT.Winform\NguyenNgocTrinh\obj\Debug\NguyenNgocTrinh.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\Nguyễn Ngọc Trinh_2280603400_KT.Winform\Nguyễn Ngọc Trinh_2280603400_KT.Winform\NguyenNgocTrinh\obj\Debug\NguyenNgocTrinh.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\Nguyễn Ngọc Trinh_2280603400_KT.Winform\Nguyễn Ngọc Trinh_2280603400_KT.Winform\NguyenNgocTrinh\obj\Debug\NguyenNgocTrinh.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Nguyễn Ngọc Trinh_2280603400_KT.Winform\Nguyễn Ngọc Trinh_2280603400_KT.Winform\NguyenNgocTrinh\obj\Debug\NguyenNg.0E4D35AA.Up2Date
+C:\Users\ADMIN\source\repos\Nguyễn Ngọc Trinh_2280603400_KT.Winform\Nguyễn Ngọc Trinh_2280603400_KT.Winform\NguyenNgocTrinh\obj\Debug\NguyenNgocTrinh.exe
+C:\Users\ADMIN\source\repos\Nguyễn Ngọc Trinh_2280603400_KT.Winform\Nguyễn Ngọc Trinh_2280603400_KT.Winform\NguyenNgocTrinh\obj\Debug\NguyenNgocTrinh.pdb

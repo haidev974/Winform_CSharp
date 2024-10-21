@@ -1,0 +1,10 @@
+C:\Users\ADMIN\OneDrive\Desktop\TH\NguyenNgocTrinh\bai1_MayTinh\bin\Debug\bai1_MayTinh.exe.config
+C:\Users\ADMIN\OneDrive\Desktop\TH\NguyenNgocTrinh\bai1_MayTinh\bin\Debug\bai1_MayTinh.exe
+C:\Users\ADMIN\OneDrive\Desktop\TH\NguyenNgocTrinh\bai1_MayTinh\bin\Debug\bai1_MayTinh.pdb
+C:\Users\ADMIN\OneDrive\Desktop\TH\NguyenNgocTrinh\bai1_MayTinh\obj\Debug\bai1_MayTinh.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Desktop\TH\NguyenNgocTrinh\bai1_MayTinh\obj\Debug\bai1_MayTinh.Form1.resources
+C:\Users\ADMIN\OneDrive\Desktop\TH\NguyenNgocTrinh\bai1_MayTinh\obj\Debug\bai1_MayTinh.Properties.Resources.resources
+C:\Users\ADMIN\OneDrive\Desktop\TH\NguyenNgocTrinh\bai1_MayTinh\obj\Debug\bai1_MayTinh.csproj.GenerateResource.cache
+C:\Users\ADMIN\OneDrive\Desktop\TH\NguyenNgocTrinh\bai1_MayTinh\obj\Debug\bai1_MayTinh.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Desktop\TH\NguyenNgocTrinh\bai1_MayTinh\obj\Debug\bai1_MayTinh.exe
+C:\Users\ADMIN\OneDrive\Desktop\TH\NguyenNgocTrinh\bai1_MayTinh\obj\Debug\bai1_MayTinh.pdb

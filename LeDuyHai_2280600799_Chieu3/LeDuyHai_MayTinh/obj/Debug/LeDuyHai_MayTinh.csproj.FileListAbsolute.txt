@@ -1,0 +1,10 @@
+C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_MayTinh\obj\Debug\LeDuyHai_MayTinh.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_MayTinh\obj\Debug\LeDuyHai_MayTinh.Form1.resources
+C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_MayTinh\obj\Debug\LeDuyHai_MayTinh.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_MayTinh\obj\Debug\LeDuyHai_MayTinh.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_MayTinh\obj\Debug\LeDuyHai_MayTinh.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_MayTinh\bin\Debug\LeDuyHai_MayTinh.exe.config
+C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_MayTinh\bin\Debug\LeDuyHai_MayTinh.exe
+C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_MayTinh\bin\Debug\LeDuyHai_MayTinh.pdb
+C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_MayTinh\obj\Debug\LeDuyHai_MayTinh.exe
+C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_MayTinh\obj\Debug\LeDuyHai_MayTinh.pdb

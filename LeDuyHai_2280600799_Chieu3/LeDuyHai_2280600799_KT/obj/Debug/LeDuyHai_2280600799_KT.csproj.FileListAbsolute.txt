@@ -1,0 +1,10 @@
+C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_2280600799_KT\bin\Debug\LeDuyHai_2280600799_KT.exe.config
+C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_2280600799_KT\bin\Debug\LeDuyHai_2280600799_KT.exe
+C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_2280600799_KT\bin\Debug\LeDuyHai_2280600799_KT.pdb
+C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_2280600799_KT\obj\Debug\LeDuyHai_2280600799_KT.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_2280600799_KT\obj\Debug\LeDuyHai_2280600799_KT.Form1.resources
+C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_2280600799_KT\obj\Debug\LeDuyHai_2280600799_KT.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_2280600799_KT\obj\Debug\LeDuyHai_2280600799_KT.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_2280600799_KT\obj\Debug\LeDuyHai_2280600799_KT.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_2280600799_KT\obj\Debug\LeDuyHai_2280600799_KT.exe
+C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_2280600799_KT\obj\Debug\LeDuyHai_2280600799_KT.pdb

@@ -1,0 +1,7 @@
+C:\Users\ADMIN\source\repos\LeDuyHai_Sang3_THLTWIN\bai3_sgk\bin\Debug\bai3_sgk.exe.config
+C:\Users\ADMIN\source\repos\LeDuyHai_Sang3_THLTWIN\bai3_sgk\bin\Debug\bai3_sgk.exe
+C:\Users\ADMIN\source\repos\LeDuyHai_Sang3_THLTWIN\bai3_sgk\bin\Debug\bai3_sgk.pdb
+C:\Users\ADMIN\source\repos\LeDuyHai_Sang3_THLTWIN\bai3_sgk\obj\Debug\bai3_sgk.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\LeDuyHai_Sang3_THLTWIN\bai3_sgk\obj\Debug\bai3_sgk.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\LeDuyHai_Sang3_THLTWIN\bai3_sgk\obj\Debug\bai3_sgk.exe
+C:\Users\ADMIN\source\repos\LeDuyHai_Sang3_THLTWIN\bai3_sgk\obj\Debug\bai3_sgk.pdb

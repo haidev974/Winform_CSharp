@@ -1,0 +1,10 @@
+C:\Users\ADMIN\OneDrive\Desktop\TH\NguyenNgocTrinh\bai4_qlThongTinTaiKhoan\bin\Debug\bai4_qlThongTinTaiKhoan.exe.config
+C:\Users\ADMIN\OneDrive\Desktop\TH\NguyenNgocTrinh\bai4_qlThongTinTaiKhoan\bin\Debug\bai4_qlThongTinTaiKhoan.exe
+C:\Users\ADMIN\OneDrive\Desktop\TH\NguyenNgocTrinh\bai4_qlThongTinTaiKhoan\bin\Debug\bai4_qlThongTinTaiKhoan.pdb
+C:\Users\ADMIN\OneDrive\Desktop\TH\NguyenNgocTrinh\bai4_qlThongTinTaiKhoan\obj\Debug\bai4_qlThongTinTaiKhoan.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Desktop\TH\NguyenNgocTrinh\bai4_qlThongTinTaiKhoan\obj\Debug\bai4_qlThongTinTaiKhoan.Form1.resources
+C:\Users\ADMIN\OneDrive\Desktop\TH\NguyenNgocTrinh\bai4_qlThongTinTaiKhoan\obj\Debug\bai4_qlThongTinTaiKhoan.Properties.Resources.resources
+C:\Users\ADMIN\OneDrive\Desktop\TH\NguyenNgocTrinh\bai4_qlThongTinTaiKhoan\obj\Debug\bai4_qlThongTinTaiKhoan.csproj.GenerateResource.cache
+C:\Users\ADMIN\OneDrive\Desktop\TH\NguyenNgocTrinh\bai4_qlThongTinTaiKhoan\obj\Debug\bai4_qlThongTinTaiKhoan.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Desktop\TH\NguyenNgocTrinh\bai4_qlThongTinTaiKhoan\obj\Debug\bai4_qlThongTinTaiKhoan.exe
+C:\Users\ADMIN\OneDrive\Desktop\TH\NguyenNgocTrinh\bai4_qlThongTinTaiKhoan\obj\Debug\bai4_qlThongTinTaiKhoan.pdb

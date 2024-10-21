@@ -1,0 +1,7 @@
+C:\Users\ADMIN\source\repos\LeDuyHai_Sang3_THLTWIN\bai5\bin\Debug\bai5.exe.config
+C:\Users\ADMIN\source\repos\LeDuyHai_Sang3_THLTWIN\bai5\bin\Debug\bai5.exe
+C:\Users\ADMIN\source\repos\LeDuyHai_Sang3_THLTWIN\bai5\bin\Debug\bai5.pdb
+C:\Users\ADMIN\source\repos\LeDuyHai_Sang3_THLTWIN\bai5\obj\Debug\bai5.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\LeDuyHai_Sang3_THLTWIN\bai5\obj\Debug\bai5.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\LeDuyHai_Sang3_THLTWIN\bai5\obj\Debug\bai5.exe
+C:\Users\ADMIN\source\repos\LeDuyHai_Sang3_THLTWIN\bai5\obj\Debug\bai5.pdb

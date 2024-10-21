@@ -1,0 +1,10 @@
+C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_QuanLySinhVien\bin\Debug\LeDuyHai_QuanLySinhVien.exe.config
+C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_QuanLySinhVien\bin\Debug\LeDuyHai_QuanLySinhVien.exe
+C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_QuanLySinhVien\bin\Debug\LeDuyHai_QuanLySinhVien.pdb
+C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_QuanLySinhVien\obj\Debug\LeDuyHai_QuanLySinhVien.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_QuanLySinhVien\obj\Debug\LeDuyHai_QuanLySinhVien.Form1.resources
+C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_QuanLySinhVien\obj\Debug\LeDuyHai_QuanLySinhVien.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_QuanLySinhVien\obj\Debug\LeDuyHai_QuanLySinhVien.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_QuanLySinhVien\obj\Debug\LeDuyHai_QuanLySinhVien.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_QuanLySinhVien\obj\Debug\LeDuyHai_QuanLySinhVien.exe
+C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_QuanLySinhVien\obj\Debug\LeDuyHai_QuanLySinhVien.pdb

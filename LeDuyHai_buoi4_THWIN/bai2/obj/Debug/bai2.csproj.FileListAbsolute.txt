@@ -1,0 +1,10 @@
+C:\Users\ADMIN\source\repos\LeDuyHai_buoi4_THWIN\bai2\bin\Debug\bai2.exe.config
+C:\Users\ADMIN\source\repos\LeDuyHai_buoi4_THWIN\bai2\bin\Debug\bai2.exe
+C:\Users\ADMIN\source\repos\LeDuyHai_buoi4_THWIN\bai2\bin\Debug\bai2.pdb
+C:\Users\ADMIN\source\repos\LeDuyHai_buoi4_THWIN\bai2\obj\Debug\bai2.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\LeDuyHai_buoi4_THWIN\bai2\obj\Debug\bai2.Form1.resources
+C:\Users\ADMIN\source\repos\LeDuyHai_buoi4_THWIN\bai2\obj\Debug\bai2.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\LeDuyHai_buoi4_THWIN\bai2\obj\Debug\bai2.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\LeDuyHai_buoi4_THWIN\bai2\obj\Debug\bai2.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\LeDuyHai_buoi4_THWIN\bai2\obj\Debug\bai2.exe
+C:\Users\ADMIN\source\repos\LeDuyHai_buoi4_THWIN\bai2\obj\Debug\bai2.pdb

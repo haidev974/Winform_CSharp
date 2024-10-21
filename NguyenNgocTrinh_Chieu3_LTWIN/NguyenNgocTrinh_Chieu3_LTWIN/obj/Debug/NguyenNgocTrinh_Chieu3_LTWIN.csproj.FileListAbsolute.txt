@@ -1,0 +1,8 @@
+D:\C#\NguyenNgocTrinh_Chieu3_LTWIN\NguyenNgocTrinh_Chieu3_LTWIN\obj\Debug\NguyenNgocTrinh_Chieu3_LTWIN.csproj.AssemblyReference.cache
+D:\C#\NguyenNgocTrinh_Chieu3_LTWIN\NguyenNgocTrinh_Chieu3_LTWIN\obj\Debug\NguyenNgocTrinh_Chieu3_LTWIN.csproj.SuggestedBindingRedirects.cache
+D:\C#\NguyenNgocTrinh_Chieu3_LTWIN\NguyenNgocTrinh_Chieu3_LTWIN\obj\Debug\NguyenNgocTrinh_Chieu3_LTWIN.csproj.CoreCompileInputs.cache
+D:\C#\NguyenNgocTrinh_Chieu3_LTWIN\NguyenNgocTrinh_Chieu3_LTWIN\bin\Debug\NguyenNgocTrinh_Chieu3_LTWIN.exe.config
+D:\C#\NguyenNgocTrinh_Chieu3_LTWIN\NguyenNgocTrinh_Chieu3_LTWIN\bin\Debug\NguyenNgocTrinh_Chieu3_LTWIN.exe
+D:\C#\NguyenNgocTrinh_Chieu3_LTWIN\NguyenNgocTrinh_Chieu3_LTWIN\bin\Debug\NguyenNgocTrinh_Chieu3_LTWIN.pdb
+D:\C#\NguyenNgocTrinh_Chieu3_LTWIN\NguyenNgocTrinh_Chieu3_LTWIN\obj\Debug\NguyenNgocTrinh_Chieu3_LTWIN.exe
+D:\C#\NguyenNgocTrinh_Chieu3_LTWIN\NguyenNgocTrinh_Chieu3_LTWIN\obj\Debug\NguyenNgocTrinh_Chieu3_LTWIN.pdb
