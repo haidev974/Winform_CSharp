@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeDuyHai_2280600799_KTGK_LT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeDuyHai_2280600799_KT", "LeDuyHai_2280600799_KT\LeDuyHai_2280600799_KT.csproj", "{19C1ABD6-0950-4343-BEE2-7BC7A9EB5029}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeDuyHai_KT_CTMH", "LeDuyHai_KT_CTMH\LeDuyHai_KT_CTMH.csproj", "{0C6EA923-2D5D-4749-83E9-20D8FE8F4062}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{19C1ABD6-0950-4343-BEE2-7BC7A9EB5029}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19C1ABD6-0950-4343-BEE2-7BC7A9EB5029}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19C1ABD6-0950-4343-BEE2-7BC7A9EB5029}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C6EA923-2D5D-4749-83E9-20D8FE8F4062}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C6EA923-2D5D-4749-83E9-20D8FE8F4062}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C6EA923-2D5D-4749-83E9-20D8FE8F4062}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C6EA923-2D5D-4749-83E9-20D8FE8F4062}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -188,6 +188,7 @@
             this.btnDong.TabIndex = 2;
             this.btnDong.Text = "Close";
             this.btnDong.UseVisualStyleBackColor = false;
+            this.btnDong.Click += new System.EventHandler(this.btnDong_Click);
             // 
             // btnXoa
             // 

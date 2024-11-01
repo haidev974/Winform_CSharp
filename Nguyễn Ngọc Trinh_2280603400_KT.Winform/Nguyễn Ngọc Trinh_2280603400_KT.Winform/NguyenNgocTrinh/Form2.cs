@@ -83,7 +83,7 @@ namespace NguyenNgocTrinh
 
         private void btn_ThemSua_Click(object sender, EventArgs e)
         {
-            try
+            //try
             {
                 if (txtMaHang.Text == "" || txt_DonGia.Text == "" || txt_SL.Text == "")
                     throw new Exception("Vui lòng nhập đầy đủ thông tin chi tiết hóa đơn!");
@@ -121,10 +121,10 @@ namespace NguyenNgocTrinh
                     }
                 }
             }
-            catch (Exception ex)
-            {
-                MessageBox.Show(ex.Message);
-            }
+            //catch (Exception ex)
+            //{
+            //    MessageBox.Show(ex.Message);
+            //}
         }
         private void UpdateTotalAmount()
         {

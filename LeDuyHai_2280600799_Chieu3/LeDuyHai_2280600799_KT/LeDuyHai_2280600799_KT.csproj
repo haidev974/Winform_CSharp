@@ -33,8 +33,17 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -52,10 +61,41 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmBaiThi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBaiThi.Designer.cs">
+      <DependentUpon>frmBaiThi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDanhGia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDanhGia.Designer.cs">
+      <DependentUpon>frmDanhGia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Bai_Thi.cs" />
+    <Compile Include="Models\Cau_Hoi.cs" />
+    <Compile Include="Models\Chuong.cs" />
+    <Compile Include="Models\CT_Bai_Thi.cs" />
+    <Compile Include="Models\Danh_Gia_Cua_Sinh_Vien.cs" />
+    <Compile Include="Models\Giang_Vien.cs" />
+    <Compile Include="Models\Ket_Qua_Thi.cs" />
+    <Compile Include="Models\KiemTraDBContext.cs" />
+    <Compile Include="Models\Ky_Thi.cs" />
+    <Compile Include="Models\Mon_Hoc.cs" />
+    <Compile Include="Models\Phuong_An_Chon.cs" />
+    <Compile Include="Models\Sinh_Vien.cs" />
+    <Compile Include="Models\User.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBaiThi.resx">
+      <DependentUpon>frmBaiThi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDanhGia.resx">
+      <DependentUpon>frmDanhGia.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -66,6 +106,7 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

@@ -178,5 +178,12 @@ namespace bai1
             }
             MessageBox.Show("Đăng ký chuyên ngành thành công!");
         }
+
+        private void btnDong_Click(object sender, EventArgs e)
+        {
+            if (MessageBox.Show("Bạn muốn thoát", "Thông báo", MessageBoxButtons.YesNo, MessageBoxIcon.Information) == DialogResult.No)
+                return;
+            this.Close();
+        }
     }
 }

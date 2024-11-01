@@ -1,0 +1,11 @@
+D:\C#\QUANLYCANTIN_HUTECH\PHIEU_AN\bin\Debug\PHIEU_AN.exe.config
+D:\C#\QUANLYCANTIN_HUTECH\PHIEU_AN\bin\Debug\PHIEU_AN.exe
+D:\C#\QUANLYCANTIN_HUTECH\PHIEU_AN\bin\Debug\PHIEU_AN.pdb
+D:\C#\QUANLYCANTIN_HUTECH\PHIEU_AN\obj\Debug\PHIEU_AN.csproj.AssemblyReference.cache
+D:\C#\QUANLYCANTIN_HUTECH\PHIEU_AN\obj\Debug\PHIEU_AN.csproj.SuggestedBindingRedirects.cache
+D:\C#\QUANLYCANTIN_HUTECH\PHIEU_AN\obj\Debug\PHIEU_AN.Properties.Resources.resources
+D:\C#\QUANLYCANTIN_HUTECH\PHIEU_AN\obj\Debug\PHIEU_AN.csproj.GenerateResource.cache
+D:\C#\QUANLYCANTIN_HUTECH\PHIEU_AN\obj\Debug\PHIEU_AN.csproj.CoreCompileInputs.cache
+D:\C#\QUANLYCANTIN_HUTECH\PHIEU_AN\obj\Debug\PHIEU_AN.exe
+D:\C#\QUANLYCANTIN_HUTECH\PHIEU_AN\obj\Debug\PHIEU_AN.pdb
+D:\C#\QUANLYCANTIN_HUTECH\PHIEU_AN\obj\Debug\PHIEU_AN.frm_PhieuAn.resources

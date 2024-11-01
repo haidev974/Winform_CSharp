@@ -8,3 +8,10 @@ C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_2280600799_KT\ob
 C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_2280600799_KT\obj\Debug\LeDuyHai_2280600799_KT.csproj.CoreCompileInputs.cache
 C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_2280600799_KT\obj\Debug\LeDuyHai_2280600799_KT.exe
 C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_2280600799_KT\obj\Debug\LeDuyHai_2280600799_KT.pdb
+C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_2280600799_KT\obj\Debug\LeDuyHai_2280600799_KT.frmDanhGia.resources
+C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_2280600799_KT\bin\Debug\EntityFramework.dll
+C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_2280600799_KT\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_2280600799_KT\bin\Debug\EntityFramework.xml
+C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_2280600799_KT\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_2280600799_KT\obj\Debug\LeDuyHai.47896173.Up2Date
+C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_2280600799_KT\obj\Debug\LeDuyHai_2280600799_KT.frmBaiThi.resources

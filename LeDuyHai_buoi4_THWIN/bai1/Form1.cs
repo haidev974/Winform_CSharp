@@ -40,7 +40,7 @@ namespace bai1
                 dgvQuanLySinhVien.Rows[rowNew].Cells[1].Value = student.FullName;
                 dgvQuanLySinhVien.Rows[rowNew].Cells[2].Value = student.Faculty.FacultyName;
                 dgvQuanLySinhVien.Rows[rowNew].Cells[3].Value = student.AverageScore;
-            }    
+            }
         }
 
         private void fillCBBKhoa(List<Faculty> facultiesList)
@@ -54,7 +54,6 @@ namespace bai1
 
             for (int i = 0; i < dgvQuanLySinhVien.Rows.Count; i++)
             {
-
                 if (dgvQuanLySinhVien.Rows[i].Cells[0].Value != null && 
                     dgvQuanLySinhVien.Rows[i].Cells[0].Value.ToString() == studentID)
                 {

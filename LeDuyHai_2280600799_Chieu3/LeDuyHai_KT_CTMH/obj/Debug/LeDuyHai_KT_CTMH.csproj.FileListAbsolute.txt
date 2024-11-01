@@ -1,0 +1,16 @@
+C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_KT_CTMH\bin\Debug\LeDuyHai_KT_CTMH.exe.config
+C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_KT_CTMH\bin\Debug\LeDuyHai_KT_CTMH.exe
+C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_KT_CTMH\bin\Debug\LeDuyHai_KT_CTMH.pdb
+C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_KT_CTMH\bin\Debug\EntityFramework.dll
+C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_KT_CTMH\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_KT_CTMH\bin\Debug\EntityFramework.xml
+C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_KT_CTMH\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_KT_CTMH\obj\Debug\LeDuyHai_KT_CTMH.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_KT_CTMH\obj\Debug\LeDuyHai_KT_CTMH.Form1.resources
+C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_KT_CTMH\obj\Debug\LeDuyHai_KT_CTMH.frmCTMonHoc.resources
+C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_KT_CTMH\obj\Debug\LeDuyHai_KT_CTMH.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_KT_CTMH\obj\Debug\LeDuyHai_KT_CTMH.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_KT_CTMH\obj\Debug\LeDuyHai_KT_CTMH.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_KT_CTMH\obj\Debug\LeDuyHai.96B1E983.Up2Date
+C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_KT_CTMH\obj\Debug\LeDuyHai_KT_CTMH.exe
+C:\Users\ADMIN\source\repos\LeDuyHai_2280600799_Chieu3\LeDuyHai_KT_CTMH\obj\Debug\LeDuyHai_KT_CTMH.pdb

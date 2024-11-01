@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\source\\repos\\do_an_ltwin\\DO_AN_LT_WIN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA1A1DB3-5CB6-478E-B25D-EA2A13AC8802}|DO_AN_LT_WIN\\DO_AN_LT_WIN.csproj|c:\\users\\admin\\source\\repos\\do_an_ltwin\\do_an_lt_win\\do_an_lt_win\\teacher\\ustfind.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA1A1DB3-5CB6-478E-B25D-EA2A13AC8802}|DO_AN_LT_WIN\\DO_AN_LT_WIN.csproj|solutionrelative:do_an_lt_win\\teacher\\ustfind.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA1A1DB3-5CB6-478E-B25D-EA2A13AC8802}|DO_AN_LT_WIN\\DO_AN_LT_WIN.csproj|C:\\Users\\ADMIN\\source\\repos\\do_an_ltwin\\DO_AN_LT_WIN\\do_an_lt_win\\teacher\\uctttkythi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA1A1DB3-5CB6-478E-B25D-EA2A13AC8802}|DO_AN_LT_WIN\\DO_AN_LT_WIN.csproj|solutionrelative:do_an_lt_win\\teacher\\uctttkythi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA1A1DB3-5CB6-478E-B25D-EA2A13AC8802}|DO_AN_LT_WIN\\DO_AN_LT_WIN.csproj|C:\\Users\\ADMIN\\source\\repos\\do_an_ltwin\\DO_AN_LT_WIN\\do_an_lt_win\\teacher\\uctdethi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA1A1DB3-5CB6-478E-B25D-EA2A13AC8802}|DO_AN_LT_WIN\\DO_AN_LT_WIN.csproj|solutionrelative:do_an_lt_win\\teacher\\uctdethi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA1A1DB3-5CB6-478E-B25D-EA2A13AC8802}|DO_AN_LT_WIN\\DO_AN_LT_WIN.csproj|C:\\Users\\ADMIN\\source\\repos\\do_an_ltwin\\DO_AN_LT_WIN\\do_an_lt_win\\teacher\\frmgiangvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA1A1DB3-5CB6-478E-B25D-EA2A13AC8802}|DO_AN_LT_WIN\\DO_AN_LT_WIN.csproj|solutionrelative:do_an_lt_win\\teacher\\frmgiangvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA1A1DB3-5CB6-478E-B25D-EA2A13AC8802}|DO_AN_LT_WIN\\DO_AN_LT_WIN.csproj|C:\\Users\\ADMIN\\source\\repos\\do_an_ltwin\\DO_AN_LT_WIN\\do_an_lt_win\\teacher\\frmgiangvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FA1A1DB3-5CB6-478E-B25D-EA2A13AC8802}|DO_AN_LT_WIN\\DO_AN_LT_WIN.csproj|solutionrelative:do_an_lt_win\\teacher\\frmgiangvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA1A1DB3-5CB6-478E-B25D-EA2A13AC8802}|DO_AN_LT_WIN\\DO_AN_LT_WIN.csproj|C:\\Users\\ADMIN\\source\\repos\\do_an_ltwin\\DO_AN_LT_WIN\\do_an_lt_win\\teacher\\uctttkythi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FA1A1DB3-5CB6-478E-B25D-EA2A13AC8802}|DO_AN_LT_WIN\\DO_AN_LT_WIN.csproj|solutionrelative:do_an_lt_win\\teacher\\uctttkythi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA1A1DB3-5CB6-478E-B25D-EA2A13AC8802}|DO_AN_LT_WIN\\DO_AN_LT_WIN.csproj|C:\\Users\\ADMIN\\source\\repos\\do_an_ltwin\\DO_AN_LT_WIN\\do_an_lt_win\\teacher\\ustfind.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FA1A1DB3-5CB6-478E-B25D-EA2A13AC8802}|DO_AN_LT_WIN\\DO_AN_LT_WIN.csproj|solutionrelative:do_an_lt_win\\teacher\\ustfind.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA1A1DB3-5CB6-478E-B25D-EA2A13AC8802}|DO_AN_LT_WIN\\DO_AN_LT_WIN.csproj|C:\\Users\\ADMIN\\source\\repos\\do_an_ltwin\\DO_AN_LT_WIN\\do_an_lt_win\\teacher\\uctdethi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FA1A1DB3-5CB6-478E-B25D-EA2A13AC8802}|DO_AN_LT_WIN\\DO_AN_LT_WIN.csproj|solutionrelative:do_an_lt_win\\teacher\\uctdethi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA1A1DB3-5CB6-478E-B25D-EA2A13AC8802}|DO_AN_LT_WIN\\DO_AN_LT_WIN.csproj|C:\\Users\\ADMIN\\source\\repos\\do_an_ltwin\\DO_AN_LT_WIN\\do_an_lt_win\\login\\frm_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA1A1DB3-5CB6-478E-B25D-EA2A13AC8802}|DO_AN_LT_WIN\\DO_AN_LT_WIN.csproj|solutionrelative:do_an_lt_win\\login\\frm_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA1A1DB3-5CB6-478E-B25D-EA2A13AC8802}|DO_AN_LT_WIN\\DO_AN_LT_WIN.csproj|C:\\Users\\ADMIN\\source\\repos\\do_an_ltwin\\DO_AN_LT_WIN\\do_an_lt_win\\login\\frm_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FA1A1DB3-5CB6-478E-B25D-EA2A13AC8802}|DO_AN_LT_WIN\\DO_AN_LT_WIN.csproj|solutionrelative:do_an_lt_win\\login\\frm_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ustFind.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\do_an_ltwin\\DO_AN_LT_WIN\\DO_AN_LT_WIN\\Teacher\\ustFind.cs",
+              "RelativeDocumentMoniker": "DO_AN_LT_WIN\\Teacher\\ustFind.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\do_an_ltwin\\DO_AN_LT_WIN\\DO_AN_LT_WIN\\Teacher\\ustFind.cs",
+              "RelativeToolTip": "DO_AN_LT_WIN\\Teacher\\ustFind.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T06:14:42.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "uctTTKyThi.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\do_an_ltwin\\DO_AN_LT_WIN\\DO_AN_LT_WIN\\Teacher\\uctTTKyThi.cs",
+              "RelativeDocumentMoniker": "DO_AN_LT_WIN\\Teacher\\uctTTKyThi.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\do_an_ltwin\\DO_AN_LT_WIN\\DO_AN_LT_WIN\\Teacher\\uctTTKyThi.cs",
+              "RelativeToolTip": "DO_AN_LT_WIN\\Teacher\\uctTTKyThi.cs",
+              "ViewState": "AgIAAAQBAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T06:14:30.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "uctDeThi.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\do_an_ltwin\\DO_AN_LT_WIN\\DO_AN_LT_WIN\\Teacher\\uctDeThi.cs",
+              "RelativeDocumentMoniker": "DO_AN_LT_WIN\\Teacher\\uctDeThi.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\do_an_ltwin\\DO_AN_LT_WIN\\DO_AN_LT_WIN\\Teacher\\uctDeThi.cs",
+              "RelativeToolTip": "DO_AN_LT_WIN\\Teacher\\uctDeThi.cs",
+              "ViewState": "AgIAALkAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T06:14:24.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frm_login.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\do_an_ltwin\\DO_AN_LT_WIN\\DO_AN_LT_WIN\\Login\\frm_login.cs",
+              "RelativeDocumentMoniker": "DO_AN_LT_WIN\\Login\\frm_login.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\do_an_ltwin\\DO_AN_LT_WIN\\DO_AN_LT_WIN\\Login\\frm_login.cs",
+              "RelativeToolTip": "DO_AN_LT_WIN\\Login\\frm_login.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAwwFIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T06:10:19.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frm_login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\do_an_ltwin\\DO_AN_LT_WIN\\DO_AN_LT_WIN\\Login\\frm_login.cs",
+              "RelativeDocumentMoniker": "DO_AN_LT_WIN\\Login\\frm_login.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\do_an_ltwin\\DO_AN_LT_WIN\\DO_AN_LT_WIN\\Login\\frm_login.cs [Design]",
+              "RelativeToolTip": "DO_AN_LT_WIN\\Login\\frm_login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T06:10:18.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmGiangVien.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\do_an_ltwin\\DO_AN_LT_WIN\\DO_AN_LT_WIN\\Teacher\\frmGiangVien.cs",
+              "RelativeDocumentMoniker": "DO_AN_LT_WIN\\Teacher\\frmGiangVien.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\do_an_ltwin\\DO_AN_LT_WIN\\DO_AN_LT_WIN\\Teacher\\frmGiangVien.cs",
+              "RelativeToolTip": "DO_AN_LT_WIN\\Teacher\\frmGiangVien.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAswFUAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T05:59:39.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmGiangVien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\do_an_ltwin\\DO_AN_LT_WIN\\DO_AN_LT_WIN\\Teacher\\frmGiangVien.cs",
+              "RelativeDocumentMoniker": "DO_AN_LT_WIN\\Teacher\\frmGiangVien.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\do_an_ltwin\\DO_AN_LT_WIN\\DO_AN_LT_WIN\\Teacher\\frmGiangVien.cs [Design]",
+              "RelativeToolTip": "DO_AN_LT_WIN\\Teacher\\frmGiangVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T05:57:16.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ustFind.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\do_an_ltwin\\DO_AN_LT_WIN\\DO_AN_LT_WIN\\Teacher\\ustFind.cs",
+              "RelativeDocumentMoniker": "DO_AN_LT_WIN\\Teacher\\ustFind.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\do_an_ltwin\\DO_AN_LT_WIN\\DO_AN_LT_WIN\\Teacher\\ustFind.cs [Design]",
+              "RelativeToolTip": "DO_AN_LT_WIN\\Teacher\\ustFind.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T05:57:12.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "uctDeThi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\do_an_ltwin\\DO_AN_LT_WIN\\DO_AN_LT_WIN\\Teacher\\uctDeThi.cs",
+              "RelativeDocumentMoniker": "DO_AN_LT_WIN\\Teacher\\uctDeThi.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\do_an_ltwin\\DO_AN_LT_WIN\\DO_AN_LT_WIN\\Teacher\\uctDeThi.cs [Design]",
+              "RelativeToolTip": "DO_AN_LT_WIN\\Teacher\\uctDeThi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T05:57:15.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "uctTTKyThi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\do_an_ltwin\\DO_AN_LT_WIN\\DO_AN_LT_WIN\\Teacher\\uctTTKyThi.cs",
+              "RelativeDocumentMoniker": "DO_AN_LT_WIN\\Teacher\\uctTTKyThi.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\do_an_ltwin\\DO_AN_LT_WIN\\DO_AN_LT_WIN\\Teacher\\uctTTKyThi.cs [Design]",
+              "RelativeToolTip": "DO_AN_LT_WIN\\Teacher\\uctTTKyThi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T05:57:13.461Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

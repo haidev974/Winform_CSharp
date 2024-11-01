@@ -18,7 +18,7 @@ namespace bai1
         private readonly StudentService studentService = new StudentService();
         private readonly FacultyService facultyService = new FacultyService();
         private string imageRelativePath;
-        private string imageFileName = "C:\\Users\\ADMIN\\source\\repos\\LeDuyHai_Buoi5_THWIN\\bai1\\bin\\Debug\\Images";
+        private string imageFileName = "C:\\Users\\ADMIN\\source\\repos\\Images";
 
         public Form1()
         {
@@ -251,6 +251,12 @@ namespace bai1
         {
             if (dgvQuanLySinhVien.SelectedRows.Count > 0)
             {
+                int row = GetSelectedRow(txtMSSV.Text);
+                if (row == -1)
+                {
+                    MessageBox.Show("Không tìm thấy sinh viên cần xoá", "THÔNG BÁO");
+                    return;
+                }
                 string selectedStudentID = dgvQuanLySinhVien.SelectedRows[0].Cells[0].Value.ToString();
                 DialogResult result = MessageBox.Show("Bạn có chắc chắn muốn xóa sinh viên này không?", "Xác nhận xóa", MessageBoxButtons.YesNo, MessageBoxIcon.Warning);
                 if (result == DialogResult.Yes)
